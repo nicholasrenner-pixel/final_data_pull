@@ -1,9 +1,5 @@
-# requirements.txt
-# These are all the packages Streamlit Cloud needs to install
-# to run stock_analysis_app.py
- 
-streamlit>=1.35.0        # The web app framework
-yfinance>=0.2.40         # Downloads real stock data from Yahoo Finance
-pandas>=2.0.0            # Data tables and math
-plotly>=5.22.0           # Interactive charts
+streamlit
+yfinance
+pandas
+plotly
  
